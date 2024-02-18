@@ -15,10 +15,10 @@ h1 {
 }
   
 img {
-  max-width: 40%;
+  width: 20rem;
   padding: 20px;
   display: block;
-  margin: 0 auto;
+  margin: auto;
 }
 
 form {
